@@ -15,9 +15,9 @@
           "type": "COMPETENCY_QUESTION",
           "content": "Requirement",
           "reasoner": "hermiT 1.4.3.456",
-          "status": "errored", // "success", "running", "error", "failed"
-          "statusNotes": "Some notes", // notes about the status, whatever
-          "issue": "https://github.com/MatteoMUni/Test-Public-Repo/issues/1", // issue in case the test is failed
+          "status": "errored",
+          "statusNotes": "Some notes",
+          "issue": "https://github.com/MatteoMUni/Test-Public-Repo/issues/1",
           "queryFileName": "New Ontology/Fragment 1/queries/note.txt",
           "data": "Some prefixes\n\nabc abc abc\ndef def def",
           "expectedResults": "Some prefixes\n\ndef def def",
