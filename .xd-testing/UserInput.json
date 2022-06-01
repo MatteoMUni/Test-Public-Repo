@@ -9,7 +9,18 @@
     {
       "name": "Fragment 1",
       "ontologyName": "New Ontology",
-      "fileName": ".xd-testing/Fragment 1/note.txt"
+      "fileName": ".xd-testing/Fragment 1/note.txt",
+      "tests": [
+        {
+          "type": "COMPETENCY_QUESTION",
+          "content": "Requirement",
+          "reasoner": "hermiT 1.4.3.456",
+          "query": "abc",
+          "data": "\n\nabc abc abc\nabc abc abc\n",
+          "expectedResults": "\n\nabc abc abc\n",
+          "id": "CQ001"
+        }
+      ]
     }
   ]
 }
