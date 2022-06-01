@@ -15,7 +15,7 @@
           "type": "COMPETENCY_QUESTION",
           "content": "Requirement",
           "reasoner": "hermiT 1.4.3.456",
-          "queryFileName": "New Ontology/Fragment 1/queries/New Ontology/Fragment 1/queries/note.txt",
+          "queryFileName": "New Ontology/Fragment 1/queries/note.txt",
           "data": "abc abc abc\nabc abc abc",
           "expectedResults": "abc abc abc",
           "id": "CQ001"
