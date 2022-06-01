@@ -15,9 +15,9 @@
           "type": "COMPETENCY_QUESTION",
           "content": "Requirement",
           "reasoner": "hermiT 1.4.3.456",
-          "query": "SELECT DISTINCT ?Concept WHERE {[] a ?Concept}",
-          "data": "abc abc abc\nabc abc abc",
-          "expectedResults": "abc abc abc",
+          "queryFileName": "New Ontology/Fragment 1/queries/note.txt",
+          "data": "Some prefixes\n\nabc abc abc\ndef def def",
+          "expectedResults": "Some prefixes\n\ndef def def",
           "id": "CQ001"
         }
       ]
