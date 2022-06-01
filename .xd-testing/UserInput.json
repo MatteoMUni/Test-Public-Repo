@@ -4,5 +4,12 @@
       "url": "https://raw.githubusercontent.com/MatteoMUni/Test-Public-Repo/main/.xd-testing/New Ontology/note.txt",
       "name": "New Ontology"
     }
+  ],
+  "fragments": [
+    {
+      "name": "Fragment 1",
+      "ontologyName": "New Ontology",
+      "fileName": ".xd-testing/Fragment 1/note.txt"
+    }
   ]
 }
