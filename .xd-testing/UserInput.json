@@ -15,7 +15,7 @@
           "type": "COMPETENCY_QUESTION",
           "content": "Requirement",
           "reasoner": "hermiT 1.4.3.456",
-          "status": "success",
+          "status": "running",
           "statusNotes": "Some notes",
           "issue": "https://github.com/MatteoMUni/Test-Public-Repo/issues/1",
           "queryFileName": "New Ontology/Fragment 1/queries/note.txt",
