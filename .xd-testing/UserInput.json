@@ -16,6 +16,8 @@
           "content": "Requirement",
           "reasoner": "hermiT 1.4.3.456",
           "status": "success",
+          "statusNotes": "Some notes",
+          "issue": "https://github.com/MatteoMUni/Test-Public-Repo/issues/1",
           "queryFileName": "New Ontology/Fragment 1/queries/note.txt",
           "data": "Some prefixes\n\nabc abc abc\ndef def def",
           "expectedResults": "Some prefixes\n\ndef def def",
