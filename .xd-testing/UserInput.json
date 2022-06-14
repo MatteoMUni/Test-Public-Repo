@@ -1,12 +1,13 @@
 {
-  "fragments": [],
-  "ontologies": [
-    {
-      "name": "Some other ontology 2",
-      "url": "https://raw.githubusercontent.com/MatteoMUni/Test-Public-Repo/main/.xd-testing/ontology.owl",
-      "ignored": true,
-      "parsed": true,
-      "userDefined": false
-    }
-  ]
+    "ontologies": [{
+        "name": "Some ontology",
+        "url": "https://raw.githubusercontent.com/MatteoMUni/Test-Public-Repo/main/.xd-testing/ontology.owl",
+        "userDefined": true
+    }, {
+        "name": "Some other ontology",
+        "url": "https://raw.githubusercontent.com/MatteoMUni/Test-Public-Repo/main/.xd-testing/ontology2.owl"
+    }, {
+        "name": "Some other ontology 2",
+        "url": "https://raw.githubusercontent.com/MatteoMUni/Test-Public-Repo/main/.xd-testing/ontology3.owl"
+    }]
 }
