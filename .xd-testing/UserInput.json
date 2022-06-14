@@ -1,0 +1,10 @@
+{
+    "ontologies": [{
+        "name": "Some ontology",
+        "url": "https://raw.githubusercontent.com/MatteoMUni/Test-Public-Repo/main/.xd-testing/ontology.owl",
+        "userDefined": true
+    }, {
+        "name": "Some other ontology",
+        "url": "https://raw.githubusercontent.com/MatteoMUni/Test-Public-Repo/main/.xd-testing/ontology.owl"
+    }]
+}
