@@ -1,5 +1,11 @@
 {
-  "fragments": [],
+  "fragments": [
+    {
+      "name": "Fragment 1",
+      "ontologyName": "Some ontology",
+      "fileName": "Some ontology/Fragment 1/fragment.owl"
+    }
+  ],
   "ontologies": [
     {
       "name": "Some ontology",
