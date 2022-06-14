@@ -6,5 +6,8 @@
     }, {
         "name": "Some other ontology",
         "url": "https://raw.githubusercontent.com/MatteoMUni/Test-Public-Repo/main/.xd-testing/ontology.owl"
+    }, {
+        "name": "Some other ontology 2",
+        "url": "https://raw.githubusercontent.com/MatteoMUni/Test-Public-Repo/main/.xd-testing/ontology.owl"
     }]
 }
