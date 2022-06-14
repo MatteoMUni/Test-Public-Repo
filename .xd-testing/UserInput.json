@@ -3,7 +3,18 @@
     {
       "name": "Fragment 1",
       "ontologyName": "Some ontology",
-      "fileName": "Some ontology/Fragment 1/fragment.owl"
+      "fileName": "Some ontology/Fragment 1/fragment.owl",
+      "tests": [
+        {
+          "type": "ERROR_PROVOCATION",
+          "content": "",
+          "reasoner": "hermiT 1.4.3.456",
+          "status": "running",
+          "data": "ABC\n\nABC ABC ABC",
+          "expectedResults": "ABC",
+          "id": "EP001"
+        }
+      ]
     }
   ],
   "ontologies": [
