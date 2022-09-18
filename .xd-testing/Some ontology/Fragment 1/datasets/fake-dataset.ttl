@@ -1,0 +1,3 @@
+@prefix : <https://example.com/>
+
+:subject :predicate :object .
